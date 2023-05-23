@@ -6,7 +6,7 @@ The goal of this repository is to explains the assumptions of linear regression 
 
 The data used in this study were obtained from the database of Eurostat, which is the statistical office that collects data for the European Union. The analyzed data includes the following European countries (27 countries): Belgium, Bulgaria, Czech Republic, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland and Sweden. We note that the study proposes a more varied approach, taking into account different type of countries (developed and under developed), the observed period being from 2011 to 2021.This aspect leads to a large variety of values for the considered variables.
 
-# ✏️The macroeconomic indicators analyzed in this study are:
+# ✏️The macroeconomic indicators analysed in this study are:
 
 - PEC (Primary energy consumption)
 
